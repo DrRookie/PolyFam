@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011863762250",
+    "project_id": "polyfam-2f666",
+    "storage_bucket": "polyfam-2f666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011863762250:android:5b593fb3788ce7df0ebdb3",
+        "android_client_info": {
+          "package_name": "com.example.polyfam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011863762250-p4isla5d9l6gcm024q7fj36tgi423fg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.polyfam",
+            "certificate_hash": "434363b53993de60accb2559fc2004f8f5d74612"
+          }
+        },
+        {
+          "client_id": "1011863762250-uqb7e97g1kbsbss90ip5rue6hgelqba6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPSr9tpth3pFAQQ6tNSOsLFCsLNjGqac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011863762250-uqb7e97g1kbsbss90ip5rue6hgelqba6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
